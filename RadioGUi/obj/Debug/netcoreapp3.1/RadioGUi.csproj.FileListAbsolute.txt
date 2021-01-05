@@ -1,0 +1,16 @@
+C:\Users\Jazden McCall\source\repos\RadioGUi\bin\Debug\netcoreapp3.1\RadioGUi.exe
+C:\Users\Jazden McCall\source\repos\RadioGUi\bin\Debug\netcoreapp3.1\RadioGUi.deps.json
+C:\Users\Jazden McCall\source\repos\RadioGUi\bin\Debug\netcoreapp3.1\RadioGUi.runtimeconfig.json
+C:\Users\Jazden McCall\source\repos\RadioGUi\bin\Debug\netcoreapp3.1\RadioGUi.runtimeconfig.dev.json
+C:\Users\Jazden McCall\source\repos\RadioGUi\bin\Debug\netcoreapp3.1\RadioGUi.dll
+C:\Users\Jazden McCall\source\repos\RadioGUi\bin\Debug\netcoreapp3.1\RadioGUi.pdb
+C:\Users\Jazden McCall\source\repos\RadioGUi\obj\Debug\netcoreapp3.1\RadioGUi.csprojAssemblyReference.cache
+C:\Users\Jazden McCall\source\repos\RadioGUi\obj\Debug\netcoreapp3.1\RadioGUi.Form1.resources
+C:\Users\Jazden McCall\source\repos\RadioGUi\obj\Debug\netcoreapp3.1\RadioGUi.csproj.GenerateResource.cache
+C:\Users\Jazden McCall\source\repos\RadioGUi\obj\Debug\netcoreapp3.1\RadioGUi.AssemblyInfoInputs.cache
+C:\Users\Jazden McCall\source\repos\RadioGUi\obj\Debug\netcoreapp3.1\RadioGUi.AssemblyInfo.cs
+C:\Users\Jazden McCall\source\repos\RadioGUi\obj\Debug\netcoreapp3.1\RadioGUi.csproj.CoreCompileInputs.cache
+C:\Users\Jazden McCall\source\repos\RadioGUi\obj\Debug\netcoreapp3.1\RadioGUi.dll
+C:\Users\Jazden McCall\source\repos\RadioGUi\obj\Debug\netcoreapp3.1\RadioGUi.pdb
+C:\Users\Jazden McCall\source\repos\RadioGUi\obj\Debug\netcoreapp3.1\RadioGUi.genruntimeconfig.cache
+C:\Users\Jazden McCall\source\repos\RadioGUi\obj\Debug\netcoreapp3.1\RadioGUi.Properties.Resources.resources
